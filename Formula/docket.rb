@@ -2,7 +2,6 @@
 class Docket < Formula
   desc "Git and Obsidian as one task tracker: a task is a Markdown file"
   homepage "https://github.com/didenkolab/docket"
-  version "0.6.0"
   license "MIT"
 
   on_macos do
